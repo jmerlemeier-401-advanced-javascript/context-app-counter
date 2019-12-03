@@ -1,0 +1,21 @@
+.container {
+    align-Items: 'center';
+    display: 'flex';
+    flex-Direction: 'row';
+    justify-Content: 'space-evenly';
+    width: '40%';
+}
+
+.counter {
+    display: 'inline-block';
+    font-Size: '1em';
+    border: '2px solid #444';
+    border-Radius: '50%';
+    line-Height: '5em';
+    text-Align: 'center';
+    width: '5em';
+}
+
+.button {
+    height: '3em';
+}
